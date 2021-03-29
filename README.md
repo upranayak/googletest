@@ -16,7 +16,7 @@ We recommend using the latest commit in the `master` branch in your projects.
 
 Our documentation is now live on GitHub Pages at
 https://google.github.io/googletest/. We recommend browsing the documentation on
-GitHub Pages rather than directly in the repository.
+GitHub Pages rather than directly in the repository
 
 #### Release 1.10.x
 
